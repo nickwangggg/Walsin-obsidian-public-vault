@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "2ad78296f465b019",
+    "type": "split",
+    "children": [
+      {
+        "id": "787553e2d1a7f3a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a75a3d80a2316a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian下載與連結到公用槽網址/obsidian下載與連線到公用槽網址.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "obsidian下載與連線到公用槽網址"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c17db3bf3c43d0a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "851f318e2fadeee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "431e380f615bc9e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "35dd05b1557d081c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "dfe3fb465a199873",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408.5
+  },
+  "right": {
+    "id": "78c445a5c39ff603",
+    "type": "split",
+    "children": [
+      {
+        "id": "4529a95ddec2e22c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c4742177d778f91",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向連結"
+            }
+          },
+          {
+            "id": "0b5239b25c9a4b85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "對外連結"
+            }
+          },
+          {
+            "id": "df98b982acbb5b46",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "3ee0e9f644ecf89f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "3a75a3d80a2316a6",
+  "lastOpenFiles": [
+    "WES(ASRS)/禁用棧板內的夾壞線捲報廢流程.md",
+    "WES(ASRS)/單據成品入庫(捲裝,軸,原物料).md",
+    "Walsin 標籤機/(NICK編輯中)標籤機容易出現的異常.md",
+    "Walsin 標籤機/(NICK編輯中)更換標籤紙.md",
+    "Obsidian下載與連結到公用槽網址/obsidian下載與連線到公用槽網址.md",
+    "MES/OC383成品半成品入庫ASRS作業(集裁母線).md",
+    "MES/OC361包裝作業(押出生產後).md",
+    "MES/OC104 存貨明細查詢.md",
+    "MES/OC102車間儲位管理.md",
+    "ASRS異常排除/ASRS異常排除SOP.md",
+    "ASRS異常排除/新料號AGV入庫、ASRS建料號、重打報文.md",
+    "待出貨退貨流程/(nick編輯中)待出貨退貨流程.md",
+    "(嘉仁編輯中)AGV排除手冊/AGV.md",
+    "手臂相關/刪除訂單OCAP.md",
+    "attachments/Pasted image 20251029101538.png",
+    "attachments/Thumbs.db",
+    "Obsidian下載與連結到公用槽網址",
+    "Walsin 標籤機/更換碳帶.md",
+    "attachments/Pasted image 20251029095442.png",
+    "attachments/Pasted image 20251029094611.png",
+    "attachments/Pasted image 20251029093925.png",
+    "EzoMQ vs RabbitMQ/RabbitMQ.md",
+    "EzoMQ vs RabbitMQ/EzoMQ.md",
+    "attachments/ASRS 異常排除SOP_V00_0250727.pptx",
+    "attachments/~$華新麗華Lifter_Rabbit MQ Spec_Common_V1.0.3_20240221.xlsx",
+    "attachments/華新麗華Lifter_Rabbit MQ Spec_Common_V1.0.3_20240221.xlsx",
+    "(嘉仁編輯中)AGV排除手冊/未命名.md",
+    "(嘉仁編輯中)AGV排除手冊",
+    "attachments/Pasted image 20251028104625.png",
+    "attachments/Pasted image 20251017161653.png",
+    "attachments/Pasted image 20250910161032.png",
+    "attachments/Pasted image 20251028101412.png",
+    "attachments/Pasted image 20251028102007.png",
+    "Pasted image 20251028101738.png"
+  ]
+}

@@ -1,0 +1,7 @@
+/* 讓 ==高亮== 的底色連續，不因為空格斷掉 */
+.markdown-preview-view mark {
+  background-color: yellow;
+  padding: 0px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}

@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "5c9805fea6b4d649",
+    "type": "split",
+    "children": [
+      {
+        "id": "507d413a59273680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19ec14604393c01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WES(ASRS)/禁用棧板內的夾壞線捲報廢流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "禁用棧板內的夾壞線捲報廢流程"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e03b3f4ba3f01834",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c6f4495b712b2a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4ef7e8498383105",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "f563f4a888e637f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "5b58793dd7b81339",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "99f2d064a4b93ca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8b80719ee4261d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13e42586deda59d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Walsin 標籤機/更換碳帶.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 更換碳帶"
+            }
+          },
+          {
+            "id": "fd4cfd77ff3cc8ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Walsin 標籤機/更換碳帶.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 更換碳帶"
+            }
+          },
+          {
+            "id": "2fa76fb9b6325f3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "56203bf258c06278",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Walsin 標籤機/更換碳帶.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 更換碳帶"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "19ec14604393c01d",
+  "lastOpenFiles": [
+    "MES/OC361包裝作業(押出生產後).md",
+    "ASRS異常排除/新料號AGV入庫、ASRS建料號、重打報文.md",
+    "attachments/Pasted image 20251023085358.png",
+    "attachments/Pasted image 20251022153959.png",
+    "attachments/Pasted image 20251022153946.png",
+    "MES/OC102車間儲位管理.md",
+    "MES/OC104 存貨明細查詢.md",
+    "MES/OC383成品半成品入庫ASRS作業(集裁母線).md",
+    "Walsin 標籤機/更換標籤紙.md",
+    "待出貨退貨流程/待出貨退貨流程.md",
+    "手臂相關/刪除訂單OCAP.md",
+    "WES(ASRS)/單據成品入庫(捲裝,軸,原物料).md",
+    "WES(ASRS)/禁用棧板內的夾壞線捲報廢流程.md",
+    "attachments/Pasted image 20251017161653.png",
+    "attachments/Pasted image 20251017132624.png",
+    "attachments/Pasted image 20251017132247.png",
+    "attachments/Pasted image 20251017132215.png",
+    "attachments/Pasted image 20251017132143.png",
+    "attachments/Pasted image 20251017132117.png",
+    "attachments/搖盤線捲資料_含料號_V16.xlsx",
+    "attachments/Pasted image 20251017092110.png",
+    "待出貨退貨流程",
+    "Walsin 標籤機/更換碳帶.md",
+    "EzoMQ vs RabbitMQ/RabbitMQ.md",
+    "EzoMQ vs RabbitMQ/EzoMQ.md",
+    "手臂相關",
+    "ASRS異常排除",
+    "EzoMQ vs RabbitMQ",
+    "未命名.base",
+    "test nick.md",
+    "attachments/pdf",
+    "attachments/img",
+    "images",
+    "attachments",
+    "Welcome.md"
+  ]
+}
