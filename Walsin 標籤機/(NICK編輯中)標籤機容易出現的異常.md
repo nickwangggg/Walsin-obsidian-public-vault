@@ -11,7 +11,11 @@
 ![[Pasted image 20251103125146.png]]
 ![[Pasted image 20251103125226.png]]
 
-3.吹氣棒噴出
-需將吹氣棒上的殘膠清除乾淨
+3-1.吹氣棒噴出
+需將吹氣棒上的殘膠用酒精清除乾淨
 
-![[Pasted image 20251103130308.png]]![[Pasted image 20251103131353.png]]
+![[Pasted image 20251103130308.png]]
+
+3-2.
+![[Pasted image 20251103131353.png]]
+![[Pasted image 20251103132330.png]]
