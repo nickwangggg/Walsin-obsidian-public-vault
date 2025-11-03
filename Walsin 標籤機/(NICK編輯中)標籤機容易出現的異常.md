@@ -11,4 +11,5 @@
 ![[Pasted image 20251103125146.png]]
 ![[Pasted image 20251103125226.png]]
 
-3.
+3.吹氣棒噴出
+![[Pasted image 20251103130308.png]]
