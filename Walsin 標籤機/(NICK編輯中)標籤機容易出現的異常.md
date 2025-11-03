@@ -12,4 +12,6 @@
 ![[Pasted image 20251103125226.png]]
 
 3.吹氣棒噴出
-![[Pasted image 20251103130308.png]]
+需將吹氣棒上的殘膠清除乾淨
+
+![[Pasted image 20251103130308.png]]![[Pasted image 20251103131353.png]]
