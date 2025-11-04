@@ -15,4 +15,10 @@
 
 ![[../attachments/Pasted image 20251013145529.png]]
 
-7.
+7.標籤紙擺放位置請依照箭頭指示
+![[Pasted image 20251104124254.png]]
+8.標籤紙走向請參照紅色箭頭
+![[Pasted image 20251104124419.png]]
+
+9.
+![[Pasted image 20251104124600.png]]
