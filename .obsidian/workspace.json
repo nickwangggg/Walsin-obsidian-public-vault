@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Walsin 標籤機/(NICK編輯中)標籤機容易出現的異常.md",
+                "file": "Walsin 標籤機/(NICK編輯中)更換標籤紙.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(NICK編輯中)標籤機容易出現的異常"
+              "title": "(NICK編輯中)更換標籤紙"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walsin 標籤機/(NICK編輯中)標籤機容易出現的異常.md",
+                "file": "Walsin 標籤機/(NICK編輯中)更換標籤紙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "(NICK編輯中)標籤機容易出現的異常 的對外連結"
+              "title": "(NICK編輯中)更換標籤紙 的對外連結"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walsin 標籤機/(NICK編輯中)標籤機容易出現的異常.md",
+                "file": "Walsin 標籤機/(NICK編輯中)更換標籤紙.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "(NICK編輯中)標籤機容易出現的異常 的大綱"
+              "title": "(NICK編輯中)更換標籤紙 的大綱"
             }
           },
           {
@@ -182,18 +182,20 @@
   },
   "active": "bd4ce1e8bced68d3",
   "lastOpenFiles": [
+    "Walsin 標籤機/標籤機上的按鈕意思.md",
+    "Walsin 標籤機/標籤機容易出現的異常.md",
+    "手臂相關/刪除訂單OCAP.md",
+    "(嘉仁編輯中)AGV排除手冊/AGV.md",
+    "WES(ASRS)/禁用棧板內的夾壞線捲報廢流程.md",
+    "WES(ASRS)/單據成品入庫(捲裝,軸,原物料).md",
     "attachments/Pasted image 20251103132330.png",
     "attachments/Pasted image 20251103131353.png",
     "attachments/Pasted image 20251103130308.png",
-    "Walsin 標籤機/標籤機上的按鈕意思.md",
-    "Walsin 標籤機/(NICK編輯中)標籤機容易出現的異常.md",
     "attachments/Pasted image 20251103125226.png",
     "attachments/Pasted image 20251103125146.png",
     "attachments/Pasted image 20251103124822.png",
     "Walsin 標籤機/(NICK編輯中)更換標籤紙.md",
-    "WES(ASRS)/禁用棧板內的夾壞線捲報廢流程.md",
     "Obsidian下載與連結到公用槽網址/obsidian下載與連線到公用槽網址.md",
-    "WES(ASRS)/單據成品入庫(捲裝,軸,原物料).md",
     "MES/OC102車間儲位管理.md",
     "MES/OC104 存貨明細查詢.md",
     "EzoMQ vs RabbitMQ/RabbitMQ.md",
@@ -201,8 +203,6 @@
     "ASRS異常排除/新料號AGV入庫、ASRS建料號、重打報文.md",
     "ASRS異常排除/ASRS異常排除SOP.md",
     "待出貨退貨流程/(nick編輯中)待出貨退貨流程.md",
-    "手臂相關/刪除訂單OCAP.md",
-    "(嘉仁編輯中)AGV排除手冊/AGV.md",
     "gitignore.md",
     "MES/OC361包裝作業(押出生產後).md",
     "MES/OC383成品半成品入庫ASRS作業(集裁母線).md",
@@ -217,7 +217,6 @@
     "attachments/~$華新麗華Lifter_Rabbit MQ Spec_Common_V1.0.3_20240221.xlsx",
     "attachments/華新麗華Lifter_Rabbit MQ Spec_Common_V1.0.3_20240221.xlsx",
     "(嘉仁編輯中)AGV排除手冊/未命名.md",
-    "(嘉仁編輯中)AGV排除手冊",
-    "attachments/Pasted image 20251028104625.png"
+    "(嘉仁編輯中)AGV排除手冊"
   ]
 }
