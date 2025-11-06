@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Walsin 標籤機/(NICK編輯中)更換標籤紙.md",
+                "file": "ASRS異常排除/新料號AGV入庫、ASRS建料號、重打報文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(NICK編輯中)更換標籤紙"
+              "title": "新料號AGV入庫、ASRS建料號、重打報文"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walsin 標籤機/(NICK編輯中)更換標籤紙.md",
+                "file": "ASRS異常排除/新料號AGV入庫、ASRS建料號、重打報文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "(NICK編輯中)更換標籤紙 的對外連結"
+              "title": "新料號AGV入庫、ASRS建料號、重打報文 的對外連結"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walsin 標籤機/(NICK編輯中)更換標籤紙.md",
+                "file": "ASRS異常排除/新料號AGV入庫、ASRS建料號、重打報文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "(NICK編輯中)更換標籤紙 的大綱"
+              "title": "新料號AGV入庫、ASRS建料號、重打報文 的大綱"
             }
           },
           {
@@ -182,6 +182,7 @@
   },
   "active": "bd4ce1e8bced68d3",
   "lastOpenFiles": [
+    "Walsin 標籤機/(NICK編輯中)更換標籤紙.md",
     "attachments/Pasted image 20251104163111.png",
     "attachments/Pasted image 20251104133715.png",
     "attachments/Pasted image 20251104132149.png",
@@ -191,10 +192,8 @@
     "attachments/Pasted image 20251104130316.png",
     "attachments/Pasted image 20251104130041.png",
     "Obsidian應用在工作上情境/(Nick編輯中)工作情境-ASRS.md",
-    "Walsin 標籤機/(NICK編輯中)更換標籤紙.md",
     "attachments/Pasted image 20251104124909.png",
     "attachments/Pasted image 20251104124600.png",
-    "attachments/Pasted image 20251104124419.png",
     "待出貨退貨流程/(nick編輯中)待出貨退貨流程.md",
     "ASRS異常排除/ASRS異常排除SOP.md",
     "Obsidian應用在工作上情境",
