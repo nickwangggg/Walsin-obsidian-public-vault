@@ -74,7 +74,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,7 +181,7 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "bd4ce1e8bced68d3",
+  "active": "35dd05b1557d081c",
   "lastOpenFiles": [
     "attachments/Pasted image 20251107091248.png",
     "attachments/Pasted image 20251107090145.png",
